@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103.945" height="103.945" viewBox="0 0 103.945 103.945">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bc2690;
+        stroke: #ffdbf5;
+        stroke-width: 3.5px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="noun-infinity-1339038" transform="translate(2.475 51.972) rotate(-45)">
+    <path id="Path_24" data-name="Path 24" class="cls-1" d="M411.042,392.083H378.958a13.125,13.125,0,1,1,13.065-14.394l-3.711-3.71-4.125,4.125L395,388.916,405.812,378.1l-4.125-4.125-3.807,3.807a18.959,18.959,0,1,0-18.923,20.131h32.083a13.125,13.125,0,1,1-13.125,13.125V403.75h-5.833v7.292a18.958,18.958,0,1,0,18.958-18.958Z" transform="translate(-360 -360)"/>
+  </g>
+</svg>
